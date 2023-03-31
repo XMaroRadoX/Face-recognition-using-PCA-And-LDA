@@ -1,10 +1,4 @@
 # Face Recognition using PCA and LDA
-## Names
-### Marwan Khaled 7020
-### Elhussein Sabri 6716
-### Amr Yasser 6772
-
-
 
 # References
 https://www.adobe.com/mena_en/creativecloud/file-types/image/raster/pgm-file.html#:~:text=PGM%20(Portable%20Gray%20Map)%20files,shade%20of%20gray%20in%20between 
@@ -1758,3 +1752,7 @@ knn(1,trainPs,y_train,testPs,y_test)
     0.9583333333333334
 
 
+## Contributors
+### Marwan Khaled 7020
+### Elhussein Sabri 6716
+### Amr Yasser 6772
