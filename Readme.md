@@ -1,4 +1,5 @@
-# Names
+# Face Recognition using PCA and LDA
+## Names
 ### Marwan Khaled 7020
 ### Elhussein Sabri 6716
 ### Amr Yasser 6772
